@@ -6,7 +6,7 @@ include_once "config/core.php";
 $page_title = "Register";
  
 // include login checker
-include_once "login_checker.php";
+//include_once "login_checker.php";
  
 // include classes
 include_once 'config/database.php';
